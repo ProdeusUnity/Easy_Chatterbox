@@ -15,6 +15,10 @@ Can tell you it works well under linux, Debian specifically. Given the specific 
 
 Most modern linux systems come with a newer version of python than 3.11.9, so make sure you also use pyenv to install 3.11.9, you can find that [here](https://github.com/pyenv/pyenv).
 
+# Usage
+
+`python ChatterboxInstaller.py`
+`python GUI_v2.py`
 
 # Requirements
 
